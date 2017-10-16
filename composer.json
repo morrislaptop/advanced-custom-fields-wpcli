@@ -1,5 +1,5 @@
 {
-    "name": "hoppinger/advanced-custom-fields-wpcli",
+    "name": "morrislaptop/advanced-custom-fields-wpcli",
     "description": "Manage Advanced Custom Fields through WP-CLI",
     "type": "wordpress-plugin",
     "license": "MIT",
